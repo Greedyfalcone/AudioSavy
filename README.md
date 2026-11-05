@@ -1,8 +1,6 @@
 # 🎵 AudioSavy: Free Instagram Audio Downloader
 Lightweight web tool to extract and download high-quality MP3 audio from Instagram Reels, Stories, and Posts. (Free, No login, Instant) 
 
-🔗 [audiosavy.com](https://audiosavy.com)
-
 ## How to Download Audio from Instagram Reels
 
 1. Copy the Instagram link (Reel, Story, or Post)
